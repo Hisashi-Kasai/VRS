@@ -1,2 +1,3 @@
 # VRS
-Main Directory
+Virtual Robot Simulator
+仮想ロボットシミュレーター
